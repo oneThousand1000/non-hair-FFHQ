@@ -1,7 +1,7 @@
 # non-hair-FFHQ
 Non-hair-FFHQ dataset  is a high-quality image dataset that contains 6,000 non-hair FFHQ portraits, based on [ stylegan2-ada](https://github.com/NVlabs/stylegan2-ada-pytorch) and [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset).
 
-![non-hair-FFHQ](F:\non-hair-FFHQ\imgs\non-hair-FFHQ.png)
+![non-hair-FFHQ](./imgs/non-hair-FFHQ.png)
 
 The dataset is built by our HairMapper method.
 
