@@ -10,7 +10,7 @@ The dataset is built by our HairMapper method.
 
 [Paper]( )    [Video]( )    [Project Page]()
 
-We apply our method on FFHQ images (All images have licenses that allow **free use, redistribution, and adaptation for non-commercial purposes**) and present a [non-hair-FFHQ](https://github.com/oneThousand1000/non-hair-FFHQ) dataset that contains 6,000 non-hair portraits to inspire and facilitate more works in the future.
+We apply our method on FFHQ images (all images have licenses that allow **free use, redistribution, and adaptation for non-commercial purposes**) and present a [non-hair-FFHQ](https://github.com/oneThousand1000/non-hair-FFHQ) dataset that contains 6,000 non-hair portraits to inspire and facilitate more works in the future.
 
 ## Overview
 
