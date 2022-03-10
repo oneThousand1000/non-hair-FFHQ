@@ -1,5 +1,5 @@
 # non-hair-FFHQ
-Non-hair-FFHQ dataset  is a high-quality image dataset that contains 6,000 non-hair FFHQ portraits, based on [ stylegan2-ada](https://github.com/NVlabs/stylegan2-ada-pytorch) and [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset).
+The non-hair-FFHQ dataset  is a high-quality image dataset that contains 6,000 non-hair FFHQ portraits, based on [ stylegan2-ada](https://github.com/NVlabs/stylegan2-ada-pytorch) and [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset).
 
 ![non-hair-FFHQ](./imgs/non-hair-FFHQ.png)
 
@@ -18,7 +18,7 @@ Google drive link of the dataset will be released soon.
 
 | dir          | information                     |
 | ------------ | ------------------------------- |
-| ├ [origin]() | origin images, `{img_id}.png`   |
+| ├ [origin]() | original images, `{img_id}.png` |
 | └ [res]()    | results images , `{img_id}.png` |
 
 
