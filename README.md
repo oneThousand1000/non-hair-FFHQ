@@ -18,12 +18,12 @@ We apply our method on FFHQ images (all images have licenses that allow **free u
 
 Google drive link of the dataset : https://drive.google.com/drive/folders/1CbyFYDTUqWRneyuDlVznY4XG-8pLhoAS?usp=sharing.
 
-| dir          | information                     |
-| ------------ | ------------------------------- |
-| ├ [origin]() | original images, `{img_id}.png` |
-| └ [res]()    | results images , `{img_id}.png` |
+| dir                                                          | information                     |
+| ------------------------------------------------------------ | ------------------------------- |
+| ├ [hair](https://drive.google.com/drive/folders/1ItALK5S9vYY6pwG_hN3sV1rrA7puivuM?usp=sharing) | original images, `{img_id}.png` |
+| └ [non-hair](https://drive.google.com/drive/folders/1hOp-ulk11_FismlQ8nr57HdJfJTxen_D?usp=sharing) | results images , `{img_id}.png` |
 
-## code
+## Code
 
 We will release the source code and pretrained model soon.
 
