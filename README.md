@@ -25,7 +25,7 @@ Google drive link of the dataset : https://drive.google.com/drive/folders/1CbyFY
 
 ## Code
 
-We will release the source code and pretrained model soon.
+https://github.com/oneThousand1000/HairMapper
 
 ## Agreement
 
