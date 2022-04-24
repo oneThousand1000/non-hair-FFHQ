@@ -8,7 +8,7 @@ The dataset is built by our HairMapper method.
 > **HairMapper: Removing Hair from Portraits Using GANs**<br>
 > [Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)*.<br>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 
-[[Paper (4.21MB)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf )    [[Video (46.7MB)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4 )    [[Suppl (4.42M)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf)    [[Project Page]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)  [[code]]()
+[[Paper (4.21MB)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/HairMapper.pdf )    [[Video (46.7MB)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/demo.mp4 )    [[Suppl (4.42M)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf)    [[Project Page]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/cvpr2022.htm)  [[code]](https://github.com/oneThousand1000/HairMapper)
 
 [[Paper-high resolution (25.8MB)]](https://drive.google.com/file/d/18DDvis0ABiN0ibnAuZePLrN5SjhIeuRR/view?usp=sharing )  [[Suppl-high resolution (16.4M)]](https://drive.google.com/file/d/1_hXrqicomEi79Tm52CKgNamezgWlykDh/view?usp=sharing)  
 
