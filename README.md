@@ -47,8 +47,16 @@ The non-hair-FFHQ dataset is available for **non-commercial research purposes** 
 
 ## Citation
 
-Coming soon.
-
+```
+@InProceedings{Wu_2022_CVPR,
+    author    = {Wu, Yiqian and Yang, Yong-Liang and Jin, Xiaogang},
+    title     = {HairMapper: Removing Hair From Portraits Using GANs},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {4227-4236}
+}
+```
 
 
 ## Contact
