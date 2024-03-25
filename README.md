@@ -8,9 +8,17 @@ The dataset is built by our HairMapper method.
 > **HairMapper: Removing Hair from Portraits Using GANs**<br>
 > [Yiqian Wu](https://onethousandwu.com/), [Yongliang Yang](http://www.yongliangyang.net/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin)*.<br>2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
 
-[[Paper (4.21MB)]](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_HairMapper_Removing_Hair_From_Portraits_Using_GANs_CVPR_2022_paper.html)    [[Video (46.7MB)]](https://youtu.be/UNtgpphVR2w)    [[Suppl (4.42M)]](http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf)    [[Project Page]](https://onethousandwu.com/HairMapper.github.io/)  [[code]](https://github.com/oneThousand1000/HairMapper)
+<div align="center">
 
-[[Paper-high resolution (25.8MB)]](https://drive.google.com/file/d/18DDvis0ABiN0ibnAuZePLrN5SjhIeuRR/view?usp=sharing )  [[Suppl-high resolution (16.4M)]](https://drive.google.com/file/d/1_hXrqicomEi79Tm52CKgNamezgWlykDh/view?usp=sharing)  
+[![Project](https://img.shields.io/badge/HairMapper-1?label=Project&color=8B93FF)](https://onethousandwu.com/HairMapper.github.io/)
+[![Paper](https://img.shields.io/badge/Main%20Paper-1?color=58A399)](https://openaccess.thecvf.com/content/CVPR2022/html/Wu_HairMapper_Removing_Hair_From_Portraits_Using_GANs_CVPR_2022_paper.html)
+[![Suppl](https://img.shields.io/badge/Supplementary-1?color=378CE7)](http://www.cad.zju.edu.cn/home/jin/cvpr2022/Supplementary_Materials.pdf)
+[![Video](https://img.shields.io/badge/Video-1?color=FDA403)](https://youtu.be/UNtgpphVR2w)
+[![Dataset](https://img.shields.io/badge/Dataset-1?color=FC819E)](https://github.com/oneThousand1000/non-hair-FFHQ)
+[![Github](https://img.shields.io/github/stars/oneThousand1000/HairMapper)](https://github.com/oneThousand1000/HairMapper)
+
+</div>
+
 
 We apply our method on FFHQ images (all images have licenses that allow **free use, redistribution, and adaptation for non-commercial purposes**) and present a [non-hair-FFHQ](https://github.com/oneThousand1000/non-hair-FFHQ) dataset that contains 6,000 non-hair portraits to inspire and facilitate more works in the future.
 
